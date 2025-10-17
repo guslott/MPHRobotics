@@ -34,7 +34,7 @@ def user_program(robot, dt_sec):
     The user can read from sensors/encoders and give actuator
     commands to move or stop the wheels in this function. This is
     the primary location for a student to write their navigation
-    code. This is the driver's seat and is called 20 times per
+    code. This is the driver's seat and is called 10 times per
     second.
     """
     pass

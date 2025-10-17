@@ -47,7 +47,7 @@ pip install numpy matplotlib
 2.  All the assignments are designed to be run directly. To run the first bootcamp assignment, for example, simply execute the file in your terminal:
 
 ```bash
-python assignment0_1_driving_school.py
+python assignment_blank.py
 ```
 
 A `matplotlib` window will appear showing the robot in its world, and the simulation will begin.
@@ -90,7 +90,7 @@ def user_program(robot, dt_sec):
         robot.set_wheel_speed_dps(0, 0) # Stop
 ```
 
-A full curriculum of scaffolded assignments is included in this repository, from a "Robot Bootcamp" to advanced challenges involving waypoint navigation, mapping, and obstacle avoidance.
+A full curriculum of scaffolded assignments is available upon request, from a "Robot Bootcamp" to advanced challenges involving waypoint navigation, mapping, and obstacle avoidance.
 
 ## For Educators
 
